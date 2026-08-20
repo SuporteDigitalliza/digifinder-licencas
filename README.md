@@ -1,0 +1,1 @@
+# digifinder-licencas
